@@ -1,0 +1,9 @@
+CREATE DATABASE chat_db;
+
+USE chat_db;
+
+CREATE TABLE messages (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    content TEXT NOT NULL,
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
