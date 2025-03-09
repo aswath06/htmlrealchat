@@ -1,7 +1,7 @@
 {
   "name": "real_time_chat",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"# htmlrealchat\"",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,5 +16,13 @@
     "http": "^0.0.1-security",
     "mysql2": "^3.13.0",
     "ws": "^8.18.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswath06/htmlrealchat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aswath06/htmlrealchat/issues"
+  },
+  "homepage": "https://github.com/aswath06/htmlrealchat#readme"
 }
